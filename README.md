@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ngọc Trọng
 - 👀 I’m interested in Front-end
 - 🌱 I’m currently learning Javascript
-- 📫 How to reach me ngoctrong.krb@gmail.com or Telegram: t.me/JohnTee47
+- 📫 How to reach me ngoctrong.krb@gmail.com or Telegram: https://t.me/JohnTee47
 
 <!---
 Snipertee/Snipertee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
